@@ -10,6 +10,7 @@ The cloud provider's reseaves a downtime, that effects identity and access manag
 
 2q. 
 
-3. how do iot devices use web servers for time data
+3. how do IoT devices use web servers for time data
+   
 
-4. how does http and https keep interactions secure
+4. how does HTTP and HTTPS keep interactions with web servers secure
