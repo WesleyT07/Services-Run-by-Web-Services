@@ -9,4 +9,3 @@ If a cloud provider's critical infrastructure experiences downtime, this can aff
 3. how do iot devices use web servers for time data
 
 4. how does http and https keep interactions secure
-fesfs
