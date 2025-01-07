@@ -12,7 +12,7 @@ The cloud provider's begins a downtime, that effects your identity and access ma
 
 2q. If you have a laggy computer, name one thing that the cloud provider will struggle on 
 
-3. how do iot devices use web servers for time data
+3. how do iot devices use web servers for real time data
 
 A (Internet of Things) device uses (Network Time Protacol)NTP, a protacal used for synchronizing clocks for networks, So they can be at a constint time with two devices
 
