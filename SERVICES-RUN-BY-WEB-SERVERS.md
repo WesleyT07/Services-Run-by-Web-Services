@@ -1,3 +1,5 @@
+Web servers store information and deliver it to the user when requested. Some web servers act as a storage device, called cloud storage (google drive, icloud, etc.). These are used to store information on the internet instead of storing things locally on your computer, making it convenient to save storage on your computer. Web servers also work together with search engines (Safari, Chrome, Edge, etc.) to deliver information to you. When you look up something online, that information is sent to you from a web server. Web servers also open an opportunity for developers to use serverless architectures. Developers can use cloud servers and rely on those servers to manage the information, and only pay for the resources used. This makes it much simpler and cost-effective for developers to create and store things on the internet.
+
 1. how does web browser and web server work together to run scripts-
 
 As the browser reads the website, it sends requests back to the server for any CSS or html files it has found from the elements, same goes with css and javascript
@@ -21,3 +23,4 @@ A (Internet of Things) device uses (Network Time Protacol)NTP, a protacal used f
 HTTP doesnt use any encriptions and doesnt keep interactions secure while HTTPS uses an encryption protocol to encrypt communications. The protocol is called Transport Layer Security (TLS).
 
 4q. Is it better to use HTTP or HTTPS for private conversations?
+
